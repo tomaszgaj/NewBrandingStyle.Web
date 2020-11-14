@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApplication.Web\\WebApplication.Web\\NewBrandingStyle.Web.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\NewBrandingStyle.Web\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
       "projectName": "NewBrandingStyle.Web",
-      "projectPath": "C:\\Users\\user\\source\\repos\\WebApplication.Web\\WebApplication.Web\\NewBrandingStyle.Web.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\NewBrandingStyle.Web\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\WebApplication.Web\\WebApplication.Web\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\NewBrandingStyle.Web\\NewBrandingStyle.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

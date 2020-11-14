@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zT+JxacsplySnWXGYjF8fVGvj9acKGNuKiso1gVxaC71247/tEu8YK78rY2CP6Cg62pnrKp8FrHPPZRUxOvHaw==",
+  "dgSpecHash": "BMLYjh5acqr8zXCzRB3boctfIVHqusIxyo92YRgls9tN+0jQXvZoe39P9nh2lBPplhEkDS6+LeSxGGxLviHk+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\WebApplication.Web\\WebApplication.Web\\NewBrandingStyle.Web.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\NewBrandingStyle.Web\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

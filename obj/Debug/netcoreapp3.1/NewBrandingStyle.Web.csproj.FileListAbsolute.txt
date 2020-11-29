@@ -50,8 +50,6 @@ C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\n
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csprojAssemblyReference.cache
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfo.cs
-C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cache
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cs
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.TagHelpers.input.cache
@@ -75,3 +73,64 @@ C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\n
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.pdb
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.genruntimeconfig.cache
 C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CopyComplete
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.exe
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.deps.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.runtimeconfig.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.runtimeconfig.dev.json
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.dll
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.pdb
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.Views.dll
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\bin\Debug\netcoreapp3.1\NewBrandingStyle.Web.Views.pdb
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csprojAssemblyReference.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfoInputs.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfo.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CoreCompileInputs.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.TagHelpers.input.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.TagHelpers.output.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorCoreGenerate.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Company\CompanyAdded.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Company\Index.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorTargetAssemblyInfo.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorTargetAssemblyInfo.cs
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.Views.pdb
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\staticwebassets\NewBrandingStyle.Web.StaticWebAssets.Manifest.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\staticwebassets\NewBrandingStyle.Web.StaticWebAssets.xml
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.dll
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.pdb
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.genruntimeconfig.cache
+C:\TempRepo\NewBrandingStyle.Web-main (1)\NewBrandingStyle.Web-main\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CopyComplete
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\NewBrandingStyle.Web\NewBrandingStyle.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

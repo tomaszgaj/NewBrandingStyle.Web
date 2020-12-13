@@ -4,7 +4,7 @@ using WebApplication.Web.Entities;
 using WebApplication.Web.Filters;
 using WebApplication.Web.Models;
 
-namespace Wsei.ExchangeThings.Web.Controllers
+namespace WebApplication.Web.Controllers
 {
     public class ExchangesController : Controller
     {
@@ -15,7 +15,7 @@ namespace Wsei.ExchangeThings.Web.Controllers
             _dbContext = dbContext;
         }
 
-        [ServiceFilter(typeof(MyCustomFilters))]
+        [ServiceFilter(typeof(MyCustomActionFilter))]
         public IActionResult Show(string id)
         {
             return View();

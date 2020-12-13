@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@addTagHelper *, WebApplication.Web.Models
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -23,6 +25,10 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Exchanges" asp-action="Add">Add new item</a>
                         </li>
                     </ul>
                 </div>

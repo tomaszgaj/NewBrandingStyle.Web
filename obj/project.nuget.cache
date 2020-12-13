@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "imOISC5g/2IXNaopbQPPy24rCgPLDDRT/YMxdXW53vKqpWKuUArco/oxJFnRYHhQRlhQGfTcKk+VJxTMGTbzlQ==",
+  "dgSpecHash": "A47R0yTgwUAwioB/n1ZdMnOYWZz/0NUeP2ftb1gCY9IHJ/xNCsrSYsOQ2QvVEV/oGRSB450IInEePOULO/Sxzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\NewBrandingStyle.Web\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
